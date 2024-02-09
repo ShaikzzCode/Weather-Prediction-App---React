@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Weather Prediction Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Weather Prediction Website, developed by Fizal Ali Shaik.
 
-## Available Scripts
+This website provides you with up-to-date weather predictions based on your search. It utilizes React, CSS, and JavaScript to create an interactive and user-friendly experience.
 
-In the project directory, you can run:
+## Website URL
 
-### `npm start`
+You can access the Weather Prediction Website using the following URL:
+[Weather Prediction Website](https://weather-prediction-ba946.web.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Real-time weather predictions based on your search.
+- User-friendly interface for easy navigation.
+- Responsive design to ensure compatibility across various devices.
 
-### `npm test`
+## How to Use
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Visit the Website:**
+   - Navigate to the provided URL: [Weather Prediction Website](https://weather-prediction-ba946.web.app/).
 
-### `npm run build`
+2. **Search for a City:**
+   - Once on the website, locate the search bar prominently displayed on the homepage.
+   - Enter the name of the city for which you want to retrieve weather information.
+   - Click on the search button or press Enter to proceed.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. **View Weather Information:**
+   - After entering the city name and initiating the search, the website will display real-time weather information for the specified location.
+   - You can explore various weather parameters such as temperature, humidity, wind speed, and more.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. **Hourly Weather Forecast:**
+   - Access the hourly weather forecast to get detailed insights into the weather conditions throughout the day.
+   - The hourly forecast provides you with information on temperature changes, precipitation chances, and wind conditions for better planning.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. **Two-Week Weather Prediction:**
+   - Explore the extended weather prediction feature to plan ahead for the next two weeks.
+   - This section offers a comprehensive overview of anticipated weather patterns, enabling you to make informed decisions regarding upcoming events or activities.
 
-### `npm run eject`
+6. **Interact with the Interface:**
+   - Utilize the interactive features and user-friendly interface to navigate effortlessly through the website.
+   - Take advantage of intuitive controls and visual representations to interpret weather data effectively.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+7. **Responsive Design:**
+   - Experience seamless accessibility across various devices, including desktops, laptops, tablets, and smartphones.
+   - The website's responsive design ensures optimal viewing and functionality regardless of screen size or device orientation.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Developer
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This website was developed by Fizal Ali Shaik.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Technologies Used
 
-### Code Splitting
+- React
+- CSS
+- JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Feedback and Support
 
-### Analyzing the Bundle Size
+If you have any feedback, suggestions, or encounter any issues while using the Weather Prediction Website, please feel free to contact the developer:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Developer: Fizal Ali Shaik
+- Email: [developershaikzz@gmail.com](mailto:developershaikzz@gmail.com)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for using the Weather Prediction Website! We hope you find it useful and informative.
