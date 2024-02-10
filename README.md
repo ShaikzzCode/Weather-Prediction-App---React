@@ -1,9 +1,13 @@
-# Weather Prediction Website
+# Weather Prediction Website - React
 
 Welcome to the Weather Prediction Website, developed by Fizal Ali Shaik.
 
-This website provides you with up-to-date weather predictions based on your search. It utilizes React, CSS, and JavaScript to create an interactive and user-friendly experience.
+This website provides you with up-to-date weather predictions based on your search. It utilizes React, HTML, CSS, and JavaScript to create an interactive and user-friendly experience.
 
+## Website URL
+
+You can access the Weather Prediction Website using the following URL:
+[Weather Prediction Website](https://weather-prediction-app---react.web.app/)
 
 ## Features
 
@@ -13,28 +17,31 @@ This website provides you with up-to-date weather predictions based on your sear
 
 ## How to Use
 
-1. **Search for a City:**
+1. **Visit the Website:**
+   - Navigate to the provided URL: [Weather Prediction Website](https://weather-prediction-app---react.web.app/).
+
+2. **Search for a City:**
    - Once on the website, locate the search bar prominently displayed on the homepage.
    - Enter the name of the city for which you want to retrieve weather information.
    - Click on the search button or press Enter to proceed.
 
-2. **View Weather Information:**
+3. **View Weather Information:**
    - After entering the city name and initiating the search, the website will display real-time weather information for the specified location.
    - You can explore various weather parameters such as temperature, humidity, wind speed, and more.
 
-3. **Hourly Weather Forecast:**
+4. **Hourly Weather Forecast:**
    - Access the hourly weather forecast to get detailed insights into the weather conditions throughout the day.
    - The hourly forecast provides you with information on temperature changes, precipitation chances, and wind conditions for better planning.
 
-4. **Two-Week Weather Prediction:**
+5. **Two-Week Weather Prediction:**
    - Explore the extended weather prediction feature to plan ahead for the next two weeks.
    - This section offers a comprehensive overview of anticipated weather patterns, enabling you to make informed decisions regarding upcoming events or activities.
 
-5. **Interact with the Interface:**
+6. **Interact with the Interface:**
    - Utilize the interactive features and user-friendly interface to navigate effortlessly through the website.
    - Take advantage of intuitive controls and visual representations to interpret weather data effectively.
 
-6. **Responsive Design:**
+7. **Responsive Design:**
    - Experience seamless accessibility across various devices, including desktops, laptops, tablets, and smartphones.
    - The website's responsive design ensures optimal viewing and functionality regardless of screen size or device orientation.
 
@@ -48,6 +55,7 @@ This website was developed by Fizal Ali Shaik.
 ## Technologies Used
 
 - React
+- HTML
 - CSS
 - JavaScript
 
